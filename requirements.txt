@@ -1,6 +1,2 @@
 numpy
-pandas
-matplotlib
-seaborn
 scipy
-PyQt5
