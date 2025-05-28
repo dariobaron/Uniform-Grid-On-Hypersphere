@@ -1,0 +1,9 @@
+# hidden folders
+.*/
+
+# Python environment
+__pycache__/
+env/
+
+# plots
+*.png
